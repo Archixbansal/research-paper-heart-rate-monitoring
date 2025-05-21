@@ -71,4 +71,5 @@ GitHub: [@archibansal30](https://github.com/archibansal30)
 
 > 💡 _This repository serves as a digital archive and showcase of my academic research contribution to IoT-based health technology._
 
-[research paper.pdf](https://github.com/user-attachments/files/20366323/research.paper.pdf)
+[research.paper.pdf](https://github.com/user-attachments/files/20366386/research.paper.pdf)
+
