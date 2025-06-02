@@ -12,6 +12,7 @@ This repository presents the published research paper titled:
 🏫 Affiliation: Department of Computer Science & Engineering, Chandigarh University
 
 📘 Abstract
+
 This paper proposes a real-time heart rate monitoring system leveraging Internet of Things (IoT) technologies for continuous cardiac health observation. The conceptual design integrates an Arduino microcontroller, Bluetooth module (HC-05), and PPG/ECG-based heart rate sensors to track heart rate in real time.
 
 Heart rate data is categorized into:
@@ -25,6 +26,7 @@ Tachycardia (High)
 Data is wirelessly transmitted to a smart device, enabling real-time monitoring, historical tracking, and instant alerts in case of anomalies.
 
 ⚙️ Technologies & Components (Conceptual)
+
 📶 Bluetooth Module (HC-05) – For low-power, short-range wireless communication
 
 🧠 Arduino Microcontroller – For real-time sensor data processing
