@@ -1,5 +1,5 @@
-# research-paper-heart-rate-monitoring
 🩺 IoT-Based Real-Time Heart Rate Monitoring System
+
 This repository presents the published research paper titled:
 “Leveraging IoT for Real-Time Heart Rate Forecasting and Anomaly Detection”
 
