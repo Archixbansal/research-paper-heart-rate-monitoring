@@ -1,67 +1,97 @@
-🩺 IoT-Based Real-Time Heart Rate Monitoring System
+# 🩺 IoT-Based Real-Time Heart Rate Monitoring System
 
-This repository presents the published research paper titled:
-“Leveraging IoT for Real-Time Heart Rate Forecasting and Anomaly Detection”
+This repository presents the published research paper titled:  
+**“Leveraging IoT for Real-Time Heart Rate Forecasting and Anomaly Detection”**
 
-📄 Published In: Scopus-indexed conference – 2024 2nd International Conference on Signal Processing, Communication, Power and Embedded System (SCOPES)
+---
 
-🧾 DOI: 10.1109/SCOPES64467.2024.10991097
+## 📄 Publication Details
 
-👨‍🔬 Authors: Archi Bansal, Lakshita, Agrima Sharma, Vanshika Chawla, Priyanka Behki
+- **Published In:** Scopus-indexed conference  
+  *2024 2nd International Conference on Signal Processing, Communication, Power and Embedded System (SCOPES)*
+- **DOI:** [10.1109/SCOPES64467.2024.10991097](https://doi.org/10.1109/SCOPES64467.2024.10991097)
+- **Date Added to IEEE Xplore:** 16 May 2025
+- **Conference Dates:** 19–21 December 2024
+- **Publisher:** IEEE
+- **Location:** Centurion University, Paralakhemundi Campus, Odisha, India
 
-🏫 Affiliation: Department of Computer Science & Engineering, Chandigarh University
+---
 
-📘 Abstract
+## 👨‍🔬 Authors
 
-This paper proposes a real-time heart rate monitoring system leveraging Internet of Things (IoT) technologies for continuous cardiac health observation. The conceptual design integrates an Arduino microcontroller, Bluetooth module (HC-05), and PPG/ECG-based heart rate sensors to track heart rate in real time.
+- Archi Bansal  
+- Lakshita  
+- Agrima Sharma  
+- Vanshika Chawla  
+- Priyanka Behki  
 
-Heart rate data is categorized into:
+**Affiliation:** Department of Computer Science & Engineering, Chandigarh University
 
-Bradycardia (Low)
+---
 
-Normal
+## 📘 Abstract
 
-Tachycardia (High)
+This paper proposes a real-time heart rate monitoring framework utilizing **Internet of Things (IoT)** technologies. The design concept includes an **Arduino microcontroller**, **Bluetooth module (HC-05)**, and a **PPG/ECG-based heart rate sensor** for continuous heart rate detection and classification.
 
-Data is wirelessly transmitted to a smart device, enabling real-time monitoring, historical tracking, and instant alerts in case of anomalies.
+Heart rate data is divided into three categories:
+- **Bradycardia (Low)**
+- **Normal**
+- **Tachycardia (High)**
 
-⚙️ Technologies & Components (Conceptual)
+Data is transmitted wirelessly to a conceptual smartphone interface, allowing:
+- Real-time alerts for anomalies
+- Historical trend tracking
+- Visual feedback for user interpretation
 
-📶 Bluetooth Module (HC-05) – For low-power, short-range wireless communication
+---
 
-🧠 Arduino Microcontroller – For real-time sensor data processing
+## ⚙️ Proposed Technologies & Components
 
-❤️ PPG/ECG Sensor – For heart rate detection
+| Component              | Description                                       |
+|------------------------|---------------------------------------------------|
+| 📶 Bluetooth (HC-05)    | Low-power wireless communication module           |
+| 🧠 Arduino MCU          | Real-time data acquisition and processing         |
+| ❤️ PPG/ECG Sensor       | Heartbeat detection hardware                      |
+| 📱 Smart Device UI      | Visual display and alert mechanism (proposed)     |
+| 📊 Threshold Logic      | Heart rate classification and anomaly detection   |
 
-📱 Smartphone Interface (conceptual) – To visualize data and trigger alerts
+---
 
-📊 Threshold-Based Classification Logic – To detect abnormal heart rate patterns
+## ✨ Key Features (Conceptual)
 
-✨ Key Features (Proposed)
-✅ Continuous heart rate tracking
-✅ Wireless data transmission via Bluetooth
-✅ Classification into low / normal / high zones
-✅ Alert mechanism for out-of-threshold readings
-✅ Foundation for ML-based predictive models
+- ✅ Real-time heart rate monitoring  
+- ✅ Bluetooth-based wireless data transmission  
+- ✅ Threshold-based classification logic  
+- ✅ Smart device connectivity (proposed)  
+- ✅ Scalable architecture for future ML integration  
 
-🔬 Future Scope
-Integration of SpO2, temperature, and respiratory rate sensors
+---
 
-Implementation of Machine Learning for predictive analytics
+## 🔮 Future Scope
 
-Expansion into cloud-connected health platforms
+- Integration of **SpO2, temperature, respiratory sensors**  
+- **Machine Learning** models for cardiac event prediction  
+- Extension to **cloud-based health analytics platforms**  
+- Support for **LoRaWAN** / **NB-IoT** for long-range applications  
 
-Adoption of LoRaWAN / NB-IoT for long-range deployments
+---
 
-📄 Access the Paper
-📥 Download Full Paper (PDF)
-🔗 Available on IEEE Xplore
+## 📄 Access the Paper
 
-📫 Contact
-Archi Bansal
-📧 Email: archibansal30@gmail.com
-🐙 GitHub: @archibansal30
+📥 [Download Full Paper (PDF)](https://doi.org/10.1109/SCOPES64467.2024.10991097)  
+🔗 Available on **IEEE Xplore**
 
+---
+
+## 📫 Contact
+
+**Archi Bansal**  
+📧 Email: [archibansal30@gmail.com](mailto:archibansal30@gmail.com)  
+🐙 GitHub: [@archibansal30](https://github.com/archibansal30)
+
+---
+
+> ⭐ *If you find this project interesting or helpful, feel free to star the repository and connect with me for collaboration opportunities!*
 
 
 ---
