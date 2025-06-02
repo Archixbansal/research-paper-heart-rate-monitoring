@@ -4,8 +4,11 @@ This repository presents the published research paper titled:
 “Leveraging IoT for Real-Time Heart Rate Forecasting and Anomaly Detection”
 
 📄 Published In: Scopus-indexed conference – 2024 2nd International Conference on Signal Processing, Communication, Power and Embedded System (SCOPES)
+
 🧾 DOI: 10.1109/SCOPES64467.2024.10991097
+
 👨‍🔬 Authors: Archi Bansal, Lakshita, Agrima Sharma, Vanshika Chawla, Priyanka Behki
+
 🏫 Affiliation: Department of Computer Science & Engineering, Chandigarh University
 
 📘 Abstract
